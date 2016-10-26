@@ -1,0 +1,11 @@
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\Crypto.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\Crypto.pdb
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\Newtonsoft.Json.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\RestSharp.Portable.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\obj\Release\Crypto.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\obj\Release\Crypto.pdb
