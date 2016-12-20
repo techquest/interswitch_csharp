@@ -1,0 +1,13 @@
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\bin\Debug\Interswitch.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\bin\Debug\Interswitch.pdb
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\bin\Debug\BouncyCastle.Crypto.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\bin\Debug\Newtonsoft.Json.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\bin\Debug\RestSharp.Portable.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\bin\Debug\System.Net.Http.Extensions.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\bin\Debug\System.Net.Http.Primitives.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\obj\Debug\Interswitch.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\obj\Debug\Interswitch.pdb

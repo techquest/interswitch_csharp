@@ -1,1 +1,20 @@
 C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\SampleProject.exe
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\SampleProject.pdb
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\Interswitch.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\RestSharp.Portable.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\BouncyCastle.Crypto.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\System.Net.Http.Primitives.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\Newtonsoft.Json.dll
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\Interswitch.pdb
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\obj\Debug\SampleProject.exe
+D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\obj\Debug\SampleProject.pdb

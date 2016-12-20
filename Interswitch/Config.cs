@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Org.BouncyCastle.Crypto.Digests;
 using Org.BouncyCastle.Security;
 
-namespace Payment
+namespace Interswitch
 {
     public class Config
     {
@@ -17,7 +17,7 @@ namespace Payment
         private String HTTPVerb;
         private String url;
         private String accessToken;
-        public string PostData { get; private set; }
+        public string SignedParameters { get; private set; }
         public string Nonce { get; private set; }
         public string PasportAuthorization { get; private set; }
         public string TimeStamp { get; set; }
@@ -28,13 +28,14 @@ namespace Payment
             get { return _random; }
             set { _random = value; }
         }
-
-
+        
         private static SecureRandom _random = new SecureRandom();
+        
         public long GetTimeStamp()
         {
             return (Int32)(DateTime.UtcNow.Subtract(new DateTime(1970, 1, 1))).TotalSeconds;
         }
+
         public String GetAuthorization()
         {
             Authorization = "Bearer " + accessToken;
@@ -61,6 +62,12 @@ namespace Payment
                 .Append(clientID)
                 .Append("&")
                 .Append(secretKey);
+
+            if(SignedParameters != null && !SignedParameters.Equals(""))
+            {
+                signature.Append("&")
+                .Append(SignedParameters);
+            }
             return ComputeHash(signature.ToString());
         }
          
@@ -73,6 +80,8 @@ namespace Payment
             hash.DoFinal(result, 0);
             return Convert.ToBase64String(result);
         }
+
+        /*
         public Config(String httpVerb, String url, String clientId, String secretKey, String accessToken, String postData, String authorization)
         {
             HTTPVerb = httpVerb;
@@ -87,16 +96,23 @@ namespace Payment
             PasportAuthorization = authorization;
             Signature = GetSignature();
         }
-        public Config(String httpVerb, String url, String clientId, String secretKey, String accessToken)
+        */
+
+        public Config(String httpVerb, String url, String clientId, String secretKey, String accessToken, String signedParameters = null)
         {
             HTTPVerb = httpVerb;
             this.url = url;
-            this.accessToken = accessToken;            
+            this.clientID = clientId;
+            this.secretKey = secretKey;
+            this.accessToken = accessToken;
+            this.SignedParameters = signedParameters;
             TimeStamp = GetTimeStamp().ToString();
             Nonce = GetNonce();
             Authorization = GetAuthorization();            
             Signature = GetSignature();
+
         }
+
         public Config()
         {
 
