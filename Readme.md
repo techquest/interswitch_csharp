@@ -17,7 +17,7 @@ object requestData = new{
    data1 = data1
 };
 			
-response = interswitch.Send("/api/v2/....", "POST", validateReq);
+response = interswitch.Send("/api/v2/....", "POST", requestData);
 hasRespCode = response.TryGetValue("CODE", out httpRespCode);
 hasRespMsg = response.TryGetValue("RESPONSE", out httpRespMsg);
 Console.WriteLine("HTTP Code: " + httpRespCode);
