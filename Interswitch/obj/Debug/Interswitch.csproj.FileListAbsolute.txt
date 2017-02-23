@@ -11,3 +11,17 @@ D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch
 D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
 D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\obj\Debug\Interswitch.dll
 D:\Development\Systems Development\Programming\c#\interswitch_csharp\Interswitch\obj\Debug\Interswitch.pdb
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\bin\Debug\Interswitch.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\bin\Debug\Interswitch.pdb
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\bin\Debug\RestSharp.Portable.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\obj\Debug\Interswitch.csprojResolveAssemblyReference.cache
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\obj\Debug\Interswitch.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\Interswitch\obj\Debug\Interswitch.pdb

@@ -18,3 +18,22 @@ D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProje
 D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
 D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\obj\Debug\SampleProject.exe
 D:\Development\Systems Development\Programming\c#\interswitch_csharp\SampleProject\obj\Debug\SampleProject.pdb
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\obj\Debug\SampleProject.exe
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\obj\Debug\SampleProject.pdb
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\SampleProject.exe
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\SampleProject.pdb
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\Interswitch.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\RestSharp.Portable.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\Interswitch.pdb
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ugochukwu.okeke\dev\interswitch_csharp\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache

@@ -21,6 +21,7 @@ namespace Interswitch
         public string authData;
         public static string SANDBOX = "SANDBOX";
         public static string PRODUCTION = "PRODUCTION";
+        public static string DEV = "DEVELOPMENT";
         public static string HTTP_CODE = "CODE";
         public static string HTTP_RESPONSE = "RESPONSE";
 
@@ -29,7 +30,30 @@ namespace Interswitch
             this.clientId = clientId;
             this.clientSecret = clientSecret;
             this.environment = environment;
+            
             //this.myAccessToken = this.getToken();
+        }
+        public String getPassportUrl(String env)
+        {
+            if (env == null) {
+                return Constants.SANDBOX_URL;//default to sandbox
+            }
+            if (env.Equals(PRODUCTION, StringComparison.OrdinalIgnoreCase))
+            {
+                return Constants.PRODUCTION_URL;
+            }
+            else if (env.Equals(SANDBOX, StringComparison.OrdinalIgnoreCase))
+            {
+                return Constants.SANDBOX_URL;
+            }
+            else if (env.Equals(DEV, StringComparison.OrdinalIgnoreCase))
+            {
+                return "http://172.26.40.117:6060";
+            }
+            else
+            {
+                return null;
+            }
         }
 
         /*
@@ -57,11 +81,7 @@ namespace Interswitch
 
         public virtual async Task<Token> GetClientAccessToken(String ClientId, String ClientSecret)
         {
-            string url = Constants.SANDBOX_URL;
-            if(PRODUCTION.Equals(environment, StringComparison.OrdinalIgnoreCase))
-            {
-                url = Constants.PRODUCTION_URL;
-            }
+            string url = getPassportUrl(environment);
 
             url = String.Concat(url, "/passport/oauth/token");
             RestClient client = new RestClient(url);
@@ -148,6 +168,7 @@ namespace Interswitch
 
                 if(data != null)
                     paymentRequests.AddJsonBody(data);
+                
 
                 ServicePointManager.Expect100Continue = true;
                 ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
@@ -229,6 +250,9 @@ namespace Interswitch
             if (PRODUCTION.Equals(environment, StringComparison.OrdinalIgnoreCase))
             {
                 url = Constants.PRODUCTION_URL;
+            }
+            else if (DEV.Equals(environment, StringComparison.OrdinalIgnoreCase)) {
+                url = Constants.DEVELOPMENT_URL;
             }
             return url;
         }
