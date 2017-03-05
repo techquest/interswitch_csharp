@@ -9,9 +9,8 @@ namespace Interswitch
     public class Constants
     {
         public static string SANDBOX_URL = "https://sandbox.interswitch.ng";
-        //public static string SANDBOX_URL = "https://sandbox.interswitchng.com";
         public static string PRODUCTION_URL = "https://saturn.interswitchng.com";
-        public static string DEVELOPMENT_URL = "http://172.25.20.56:9080";
+        public static string DEVELOPMENT_URL = "https://qa.interswitchng.com";
 
         public static string Contenttype = "content-type";
         public static string Cachecontrol = "cache-control";
