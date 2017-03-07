@@ -31,7 +31,6 @@ namespace Interswitch
             this.clientSecret = clientSecret;
             this.environment = environment;
             
-            //this.myAccessToken = this.getToken();
         }
         public String getPassportUrl(String env)
         {
@@ -48,7 +47,7 @@ namespace Interswitch
             }
             else if (env.Equals(DEV, StringComparison.OrdinalIgnoreCase))
             {
-                return "http://172.26.40.117:6060";
+                return "https://qa.interswitchng.com";
             }
             else
             {
